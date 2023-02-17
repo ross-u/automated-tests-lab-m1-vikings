@@ -1,0 +1,28 @@
+{
+  "name": "lab-m1-vikings",
+  "version": "1.0.0",
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "index.js",
+  "directories": {
+    "test": "jest",
+    "test:watch": "jest --watchAll --verbose=false"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ross-u/automated-tests-lab-m1-vikings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ross-u/automated-tests-lab-m1-vikings/issues"
+  },
+  "homepage": "https://github.com/ross-u/automated-tests-lab-m1-vikings#readme",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "jest-junit": "^15.0.0"
+  }
+}
