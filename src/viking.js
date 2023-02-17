@@ -49,3 +49,5 @@ class Saxon extends Soldier {
 
 // War
 class War {}
+
+module.exports = { Soldier, Viking, Saxon, War };

@@ -1,5 +1,3 @@
-const { Soldier, Viking, Saxon, War } = require("./../src/viking");
-
 describe("Soldier", () => {
   let soldier;
   const strength = 150;
