@@ -24,5 +24,10 @@
   "dependencies": {
     "jest": "^29.4.3",
     "jest-junit": "^15.0.0"
+  },
+  "jest-junit": {
+    "suiteNameTemplate": "{filepath}",
+    "classNameTemplate": "{classname}",
+    "titleTemplate": "{title}"
   }
 }
