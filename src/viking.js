@@ -102,3 +102,5 @@ class War {
     }
   }
 }
+
+module.exports = { Soldier, Viking, Saxon, War };
